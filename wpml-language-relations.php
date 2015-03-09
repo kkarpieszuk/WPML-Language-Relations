@@ -1,7 +1,7 @@
 <?php
 /* 
 Plugin name: WPML Language Relations
-Description: Display and manage posts and pages related by language
+Description: Display and manage posts and pages related by languages
 Version: 0.1
  */
 
