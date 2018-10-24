@@ -23,7 +23,6 @@ class WPML_LR {
 	}
 	
 	function verify_wpml() {
-
 		if ( ! $this->LR_Sitepress->is_wpml_active() ) {
 			add_action( 'admin_notices', array($this, 'notice_no_wpml') );
 		}
